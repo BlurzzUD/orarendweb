@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Órarend</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <header class="top">
+    <div>
+      <h1 id="title">Órarend</h1>
+      <p id="weekInfo" class="week"></p>
+    </div>
+    <div class="actions">
+      <button id="btnIcs" type="button" class="btn">📅 Naptár letöltése (.ics)</button>
+      <button id="btnSettings" type="button" class="btn ghost">⚙ Beállítások</button>
+    </div>
+  </header>
+  <p id="status" role="status"></p>
+  <nav id="dayTabs" class="tabs" aria-label="Nap kiválasztása"></nav>
+  <main id="app"><p class="notice">Betöltés…</p></main>
+
+  <dialog id="setup" aria-labelledby="setupTitle">
+    <h2 id="setupTitle"></h2>
+    <p id="setupText"></p>
+    <div id="setupBody"></div>
+    <p id="setupError" class="error" role="alert"></p>
+    <div class="row">
+      <button id="setupCancel" type="button" class="btn ghost" hidden>Mégse</button>
+      <button id="setupBack" type="button" class="btn ghost" hidden>Vissza</button>
+      <button id="setupOk" type="button" class="btn" hidden>Órarend megnyitása</button>
+    </div>
+  </dialog>
+</body>
+</html>
