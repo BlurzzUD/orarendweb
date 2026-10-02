@@ -1,1 +1,1006 @@
-
+{
+  "class": "11. A",
+  "class_id": "-38",
+  "week": {
+    "from": "2026-09-28",
+    "to": "2026-10-04"
+  },
+  "periods": {
+    "1": {
+      "name": "1",
+      "start": "08:00",
+      "end": "08:45"
+    },
+    "2": {
+      "name": "2",
+      "start": "08:55",
+      "end": "09:40"
+    },
+    "3": {
+      "name": "3",
+      "start": "09:50",
+      "end": "10:35"
+    },
+    "4": {
+      "name": "4",
+      "start": "10:45",
+      "end": "11:30"
+    },
+    "5": {
+      "name": "5",
+      "start": "11:40",
+      "end": "12:25"
+    },
+    "6": {
+      "name": "6",
+      "start": "12:35",
+      "end": "13:20"
+    },
+    "7": {
+      "name": "7",
+      "start": "13:25",
+      "end": "14:10"
+    },
+    "8": {
+      "name": "8",
+      "start": "14:15",
+      "end": "15:00"
+    }
+  },
+  "timetable": {
+    "Hétfő (Hé)": {
+      "Period 1 (08:00-08:45)": [
+        {
+          "subject": "Webprogramozás",
+          "teacher": "KUHM",
+          "room": "Info I.",
+          "groups": [
+            "11-SZF-gyak-1"
+          ],
+          "start": "08:00",
+          "end": "09:40",
+          "duration_periods": 2,
+          "color": "#33CCCC"
+        },
+        {
+          "subject": "Műszaki matematika",
+          "teacher": "NAJA",
+          "room": "IX.",
+          "groups": [
+            "11-IP-gyak-1"
+          ],
+          "start": "08:00",
+          "end": "08:45",
+          "duration_periods": 1,
+          "color": "#00FF00"
+        },
+        {
+          "subject": "IKT Projektmunka II.",
+          "teacher": "KOCS",
+          "room": "Info II.",
+          "groups": [
+            "11-IR-gyak-1"
+          ],
+          "start": "08:00",
+          "end": "09:40",
+          "duration_periods": 2,
+          "color": "#008080"
+        },
+        {
+          "subject": "IKT Projektmunka II.",
+          "teacher": "FAIS",
+          "room": "Info IV.",
+          "groups": [
+            "11-SZF-gyak-2"
+          ],
+          "start": "08:00",
+          "end": "09:40",
+          "duration_periods": 2,
+          "color": "#CC0000"
+        },
+        {
+          "subject": "Elektrotechnika",
+          "teacher": "VIAT",
+          "room": "Elektr",
+          "groups": [
+            "11-EE-gyak-1"
+          ],
+          "start": "08:00",
+          "end": "09:40",
+          "duration_periods": 2,
+          "color": "#5BC837"
+        },
+        {
+          "subject": "Elektronika",
+          "teacher": "HAZO",
+          "room": "Erősá",
+          "groups": [
+            "11-EE-gyak-2"
+          ],
+          "start": "08:00",
+          "end": "09:40",
+          "duration_periods": 2,
+          "color": "#993399"
+        }
+      ],
+      "Period 2 (08:55-09:40)": [
+        {
+          "subject": "IOT programozás",
+          "teacher": "BAJA",
+          "room": "DKA",
+          "groups": [
+            "11-IP-gyak-1"
+          ],
+          "start": "08:55",
+          "end": "09:40",
+          "duration_periods": 1,
+          "color": "#20C0C0"
+        }
+      ],
+      "Period 3 (09:50-10:35)": [
+        {
+          "subject": "Testnevelés",
+          "teacher": "RAKK",
+          "room": "Tornat",
+          "groups": [],
+          "start": "09:50",
+          "end": "10:35",
+          "duration_periods": 1,
+          "color": "#FFCC33"
+        }
+      ],
+      "Period 4 (10:45-11:30)": [
+        {
+          "subject": "Asztali alkalmazások fejlesztése",
+          "teacher": "FEAN",
+          "room": "Info VI.",
+          "groups": [
+            "11-SZF-gyak-2"
+          ],
+          "start": "10:45",
+          "end": "13:20",
+          "duration_periods": 3,
+          "color": "#FF5050"
+        },
+        {
+          "subject": "Elektrotechnika",
+          "teacher": "HAZO",
+          "room": "Erősá",
+          "groups": [
+            "11-EE-gyak-1"
+          ],
+          "start": "10:45",
+          "end": "13:20",
+          "duration_periods": 3,
+          "color": "#993399"
+        },
+        {
+          "subject": "Digitális áramkörök",
+          "teacher": "AGCS",
+          "room": "Elektr",
+          "groups": [
+            "11-IP-gyak-1"
+          ],
+          "start": "10:45",
+          "end": "13:20",
+          "duration_periods": 3,
+          "color": "#FF3399"
+        },
+        {
+          "subject": "Hálózatok I.",
+          "teacher": "VIAT",
+          "room": "Info V.",
+          "groups": [
+            "11-IR-gyak-1"
+          ],
+          "start": "10:45",
+          "end": "13:20",
+          "duration_periods": 3,
+          "color": "#5BC837"
+        },
+        {
+          "subject": "IKT Projektmunka II.",
+          "teacher": "KUHM",
+          "room": "Info I.",
+          "groups": [
+            "11-SZF-gyak-1"
+          ],
+          "start": "10:45",
+          "end": "12:25",
+          "duration_periods": 2,
+          "color": "#33CCCC"
+        },
+        {
+          "subject": "Elektrotechnika",
+          "teacher": "SZEN",
+          "room": "PLC",
+          "groups": [
+            "11-EE-gyak-2"
+          ],
+          "start": "10:45",
+          "end": "12:25",
+          "duration_periods": 2,
+          "color": "#ACFDB2"
+        }
+      ],
+      "Period 6 (12:35-13:20)": [
+        {
+          "subject": "Asztali alkalmazások fejlesztése",
+          "teacher": "KUHM",
+          "room": "Info I.",
+          "groups": [
+            "11-SZF-gyak-1"
+          ],
+          "start": "12:35",
+          "end": "15:00",
+          "duration_periods": 3,
+          "color": "#33CCCC"
+        },
+        {
+          "subject": "Elektrotechnika",
+          "teacher": "NAJA",
+          "room": "VI.",
+          "groups": [
+            "11-EE-gyak-2"
+          ],
+          "start": "12:35",
+          "end": "13:20",
+          "duration_periods": 1,
+          "color": "#00FF00"
+        }
+      ],
+      "Period 7 (13:25-14:10)": [
+        {
+          "subject": "Webprogramozás",
+          "teacher": "FEAN",
+          "room": "Info VI.",
+          "groups": [
+            "11-SZF-gyak-2"
+          ],
+          "start": "13:25",
+          "end": "15:00",
+          "duration_periods": 2,
+          "color": "#FF5050"
+        },
+        {
+          "subject": "Elektronika",
+          "teacher": "AGCS",
+          "room": "Elektr",
+          "groups": [
+            "11-EE-gyak-1"
+          ],
+          "start": "13:25",
+          "end": "15:00",
+          "duration_periods": 2,
+          "color": "#FF3399"
+        },
+        {
+          "subject": "Elektronika",
+          "teacher": "HAZO",
+          "room": "Erősá",
+          "groups": [
+            "11-EE-gyak-2"
+          ],
+          "start": "13:25",
+          "end": "15:00",
+          "duration_periods": 2,
+          "color": "#993399"
+        },
+        {
+          "subject": "Elektrotechnika",
+          "teacher": "NAJA",
+          "room": "Matek III.",
+          "groups": [
+            "11-IP-gyak-1"
+          ],
+          "start": "13:25",
+          "end": "15:00",
+          "duration_periods": 2,
+          "color": "#00FF00"
+        }
+      ]
+    },
+    "Kedd (Ke)": {
+      "Period 1 (08:00-08:45)": [
+        {
+          "subject": "Matematika",
+          "teacher": "GLIV",
+          "room": "Matek III.",
+          "groups": [
+            "11.A - Mat L1"
+          ],
+          "start": "08:00",
+          "end": "09:40",
+          "duration_periods": 2,
+          "color": "#FF00CC"
+        },
+        {
+          "subject": "Magyar nyelv és irodalom",
+          "teacher": "BALA",
+          "room": "VII.",
+          "groups": [
+            "11.A - Magyar B2"
+          ],
+          "start": "08:00",
+          "end": "09:40",
+          "duration_periods": 2,
+          "color": "#0398E2"
+        }
+      ],
+      "Period 3 (09:50-10:35)": [
+        {
+          "subject": "Műszaki rajz",
+          "teacher": "BAJA",
+          "room": "Rob",
+          "groups": [
+            "11-IR-gyak1"
+          ],
+          "start": "09:50",
+          "end": "11:30",
+          "duration_periods": 2,
+          "color": "#20C0C0"
+        },
+        {
+          "subject": "Munkavédelem",
+          "teacher": "NAJA",
+          "room": "Matek III.",
+          "groups": [
+            "11-EE-gyak"
+          ],
+          "start": "09:50",
+          "end": "10:35",
+          "duration_periods": 1,
+          "color": "#00FF00"
+        },
+        {
+          "subject": "Analóg áramkörök",
+          "teacher": "AGCS",
+          "room": "Elektr",
+          "groups": [
+            "11-IP-gyak1"
+          ],
+          "start": "09:50",
+          "end": "11:30",
+          "duration_periods": 2,
+          "color": "#FF3399"
+        },
+        {
+          "subject": "Szakmai angol",
+          "teacher": "BAGY",
+          "room": "X.",
+          "groups": [
+            "11-SZF-gyak1"
+          ],
+          "start": "09:50",
+          "end": "11:30",
+          "duration_periods": 2,
+          "color": "#8F60FB"
+        },
+        {
+          "subject": "PHP programozás",
+          "teacher": "GÁMA",
+          "room": "Info IV.",
+          "groups": [
+            "11-SZF-gyak2"
+          ],
+          "start": "09:50",
+          "end": "11:30",
+          "duration_periods": 2,
+          "color": "#96FFC0"
+        }
+      ],
+      "Period 4 (10:45-11:30)": [
+        {
+          "subject": "Műszaki matematika",
+          "teacher": "NAJA",
+          "room": "Kajtor",
+          "groups": [
+            "11-EE-gyak"
+          ],
+          "start": "10:45",
+          "end": "11:30",
+          "duration_periods": 1,
+          "color": "#00FF00"
+        }
+      ],
+      "Period 5 (11:40-12:25)": [
+        {
+          "subject": "Angol nyelv",
+          "teacher": "BTED",
+          "room": "IX.",
+          "groups": [
+            "11.A - Ang B"
+          ],
+          "start": "11:40",
+          "end": "12:25",
+          "duration_periods": 1,
+          "color": "#C020FF"
+        },
+        {
+          "subject": "Német nyelv",
+          "teacher": "GIOL",
+          "room": "Ném",
+          "groups": [
+            "11.A - Német"
+          ],
+          "start": "11:40",
+          "end": "12:25",
+          "duration_periods": 1,
+          "color": "#99FF33"
+        },
+        {
+          "subject": "Angol nyelv",
+          "teacher": "MIZO",
+          "room": "Nyelab",
+          "groups": [
+            "11.A - Ang M"
+          ],
+          "start": "11:40",
+          "end": "12:25",
+          "duration_periods": 1,
+          "color": "#CC9900"
+        }
+      ],
+      "Period 6 (12:35-13:20)": [
+        {
+          "subject": "Történelem",
+          "teacher": "SZAN",
+          "room": "I.",
+          "groups": [],
+          "start": "12:35",
+          "end": "13:20",
+          "duration_periods": 1,
+          "color": "#99CCFF"
+        }
+      ],
+      "Period 7 (13:25-14:10)": [
+        {
+          "subject": "Testnevelés",
+          "teacher": "RAKK",
+          "room": "Tornat",
+          "groups": [],
+          "start": "13:25",
+          "end": "14:10",
+          "duration_periods": 1,
+          "color": "#FFCC33"
+        }
+      ],
+      "Period 8 (14:15-15:00)": [
+        {
+          "subject": "Osztályfőnöki",
+          "teacher": "BALA",
+          "room": "VII.",
+          "groups": [],
+          "start": "14:15",
+          "end": "15:00",
+          "duration_periods": 1,
+          "color": "#0398E2"
+        }
+      ]
+    },
+    "Szerda (Sz)": {
+      "Period 1 (08:00-08:45)": [
+        {
+          "subject": "Fizika",
+          "teacher": "VIAT",
+          "room": "Kajtor",
+          "groups": [],
+          "start": "08:00",
+          "end": "08:45",
+          "duration_periods": 1,
+          "color": "#5BC837"
+        }
+      ],
+      "Period 2 (08:55-09:40)": [
+        {
+          "subject": "Irányítástechnika",
+          "teacher": "NALE",
+          "room": "PLC",
+          "groups": [
+            "11-EE-gyak"
+          ],
+          "start": "08:55",
+          "end": "09:40",
+          "duration_periods": 1,
+          "color": "#10C2EE"
+        },
+        {
+          "subject": "Szakmai angol",
+          "teacher": "KOAT",
+          "room": "Nyelab",
+          "groups": [
+            "11-IR-gyak1"
+          ],
+          "start": "08:55",
+          "end": "10:35",
+          "duration_periods": 2,
+          "color": "#FFCCCC"
+        },
+        {
+          "subject": "Szakmai angol",
+          "teacher": "PÁGN",
+          "room": "X.",
+          "groups": [
+            "11-SZF-gyak2"
+          ],
+          "start": "08:55",
+          "end": "10:35",
+          "duration_periods": 2,
+          "color": "#80C020"
+        },
+        {
+          "subject": "Adatbázis-kezelés I.",
+          "teacher": "KUHM",
+          "room": "Info I.",
+          "groups": [
+            "11-SZF-gyak1"
+          ],
+          "start": "08:55",
+          "end": "10:35",
+          "duration_periods": 2,
+          "color": "#33CCCC"
+        },
+        {
+          "subject": "Analóg áramkörök",
+          "teacher": "AGCS",
+          "room": "Elektr",
+          "groups": [
+            "11-IP-gyak1"
+          ],
+          "start": "08:55",
+          "end": "10:35",
+          "duration_periods": 2,
+          "color": "#FF3399"
+        }
+      ],
+      "Period 3 (09:50-10:35)": [
+        {
+          "subject": "Biztonságtechnika",
+          "teacher": "HAZO",
+          "room": "Erősá",
+          "groups": [
+            "11-EE-gyak"
+          ],
+          "start": "09:50",
+          "end": "10:35",
+          "duration_periods": 1,
+          "color": "#993399"
+        }
+      ],
+      "Period 4 (10:45-11:30)": [
+        {
+          "subject": "Angol nyelv",
+          "teacher": "BTED",
+          "room": "IX.",
+          "groups": [
+            "11.A - Ang B"
+          ],
+          "start": "10:45",
+          "end": "11:30",
+          "duration_periods": 1,
+          "color": "#C020FF"
+        },
+        {
+          "subject": "Német nyelv",
+          "teacher": "GIOL",
+          "room": "Ném",
+          "groups": [
+            "11.A - Német"
+          ],
+          "start": "10:45",
+          "end": "11:30",
+          "duration_periods": 1,
+          "color": "#99FF33"
+        },
+        {
+          "subject": "Angol nyelv",
+          "teacher": "MIZO",
+          "room": "Nyelab",
+          "groups": [
+            "11.A - Ang M"
+          ],
+          "start": "10:45",
+          "end": "11:30",
+          "duration_periods": 1,
+          "color": "#CC9900"
+        }
+      ],
+      "Period 5 (11:40-12:25)": [
+        {
+          "subject": "Matematika",
+          "teacher": "GLIV",
+          "room": "Matek III.",
+          "groups": [
+            "11.A - Mat L2"
+          ],
+          "start": "11:40",
+          "end": "12:25",
+          "duration_periods": 1,
+          "color": "#FF00CC"
+        },
+        {
+          "subject": "Magyar nyelv és irodalom",
+          "teacher": "BALA",
+          "room": "VII.",
+          "groups": [
+            "11.A - Magyar B1"
+          ],
+          "start": "11:40",
+          "end": "12:25",
+          "duration_periods": 1,
+          "color": "#0398E2"
+        }
+      ],
+      "Period 6 (12:35-13:20)": [
+        {
+          "subject": "Matematika",
+          "teacher": "GLIV",
+          "room": "Matek III.",
+          "groups": [
+            "11.A - Mat L1"
+          ],
+          "start": "12:35",
+          "end": "13:20",
+          "duration_periods": 1,
+          "color": "#FF00CC"
+        },
+        {
+          "subject": "Magyar nyelv és irodalom",
+          "teacher": "BALA",
+          "room": "VII.",
+          "groups": [
+            "11.A - Magyar B2"
+          ],
+          "start": "12:35",
+          "end": "13:20",
+          "duration_periods": 1,
+          "color": "#0398E2"
+        }
+      ]
+    },
+    "Csütörtök (Cs)": {
+      "Period 1 (08:00-08:45)": [
+        {
+          "subject": "Fizika",
+          "teacher": "VIAT",
+          "room": "Kajtor",
+          "groups": [],
+          "start": "08:00",
+          "end": "08:45",
+          "duration_periods": 1,
+          "color": "#5BC837"
+        }
+      ],
+      "Period 2 (08:55-09:40)": [
+        {
+          "subject": "Matematika",
+          "teacher": "GLIV",
+          "room": "Matek III.",
+          "groups": [
+            "11.A - Mat L2"
+          ],
+          "start": "08:55",
+          "end": "09:40",
+          "duration_periods": 1,
+          "color": "#FF00CC"
+        },
+        {
+          "subject": "Magyar nyelv és irodalom",
+          "teacher": "BALA",
+          "room": "VII.",
+          "groups": [
+            "11.A - Magyar B1"
+          ],
+          "start": "08:55",
+          "end": "09:40",
+          "duration_periods": 1,
+          "color": "#0398E2"
+        }
+      ],
+      "Period 3 (09:50-10:35)": [
+        {
+          "subject": "Angol nyelv",
+          "teacher": "BTED",
+          "room": "IX.",
+          "groups": [
+            "11.A - Ang B"
+          ],
+          "start": "09:50",
+          "end": "10:35",
+          "duration_periods": 1,
+          "color": "#C020FF"
+        },
+        {
+          "subject": "Német nyelv",
+          "teacher": "GIOL",
+          "room": "Ném",
+          "groups": [
+            "11.A - Német"
+          ],
+          "start": "09:50",
+          "end": "10:35",
+          "duration_periods": 1,
+          "color": "#99FF33"
+        },
+        {
+          "subject": "Angol nyelv",
+          "teacher": "MIZO",
+          "room": "Nyelab",
+          "groups": [
+            "11.A - Ang M"
+          ],
+          "start": "09:50",
+          "end": "10:35",
+          "duration_periods": 1,
+          "color": "#CC9900"
+        }
+      ],
+      "Period 4 (10:45-11:30)": [
+        {
+          "subject": "Történelem",
+          "teacher": "SZAN",
+          "room": "I.",
+          "groups": [],
+          "start": "10:45",
+          "end": "11:30",
+          "duration_periods": 1,
+          "color": "#99CCFF"
+        }
+      ],
+      "Period 5 (11:40-12:25)": [
+        {
+          "subject": "Magyar nyelv és irodalom",
+          "teacher": "BALA",
+          "room": "VII.",
+          "groups": [
+            "11.A - Magyar B2"
+          ],
+          "start": "11:40",
+          "end": "12:25",
+          "duration_periods": 1,
+          "color": "#0398E2"
+        },
+        {
+          "subject": "Matematika",
+          "teacher": "GLIV",
+          "room": "Matek III.",
+          "groups": [
+            "11.A - Mat L1"
+          ],
+          "start": "11:40",
+          "end": "12:25",
+          "duration_periods": 1,
+          "color": "#FF00CC"
+        }
+      ],
+      "Period 6 (12:35-13:20)": [
+        {
+          "subject": "Testnevelés",
+          "teacher": "RAKK",
+          "room": "Tornat",
+          "groups": [],
+          "start": "12:35",
+          "end": "13:20",
+          "duration_periods": 1,
+          "color": "#FFCC33"
+        }
+      ],
+      "Period 7 (13:25-14:10)": [
+        {
+          "subject": "Hálózatok I.",
+          "teacher": "VIAT",
+          "room": "Info II.",
+          "groups": [
+            "11-IR-gyak-1"
+          ],
+          "start": "13:25",
+          "end": "15:00",
+          "duration_periods": 2,
+          "color": "#5BC837"
+        }
+      ]
+    },
+    "Péntek (Pé)": {
+      "Period 1 (08:00-08:45)": [
+        {
+          "subject": "Angol nyelv",
+          "teacher": "BTED",
+          "room": "IX.",
+          "groups": [
+            "11.A - Ang B"
+          ],
+          "start": "08:00",
+          "end": "08:45",
+          "duration_periods": 1,
+          "color": "#C020FF"
+        },
+        {
+          "subject": "Német nyelv",
+          "teacher": "GIOL",
+          "room": "Ném",
+          "groups": [
+            "11.A - Német"
+          ],
+          "start": "08:00",
+          "end": "08:45",
+          "duration_periods": 1,
+          "color": "#99FF33"
+        },
+        {
+          "subject": "Angol nyelv",
+          "teacher": "MIZO",
+          "room": "Nyelab",
+          "groups": [
+            "11.A - Ang M"
+          ],
+          "start": "08:00",
+          "end": "08:45",
+          "duration_periods": 1,
+          "color": "#CC9900"
+        }
+      ],
+      "Period 2 (08:55-09:40)": [
+        {
+          "subject": "Magyar nyelv és irodalom",
+          "teacher": "BALA",
+          "room": "VII.",
+          "groups": [
+            "11.A - Magyar B1"
+          ],
+          "start": "08:55",
+          "end": "10:35",
+          "duration_periods": 2,
+          "color": "#0398E2"
+        },
+        {
+          "subject": "Matematika",
+          "teacher": "GLIV",
+          "room": "Matek III.",
+          "groups": [
+            "11.A - Mat L2"
+          ],
+          "start": "08:55",
+          "end": "10:35",
+          "duration_periods": 2,
+          "color": "#FF00CC"
+        }
+      ],
+      "Period 4 (10:45-11:30)": [
+        {
+          "subject": "IKT Projektmunka II.",
+          "teacher": "KOCS",
+          "room": "Info II.",
+          "groups": [
+            "11-IR-gyak1"
+          ],
+          "start": "10:45",
+          "end": "11:30",
+          "duration_periods": 1,
+          "color": "#008080"
+        },
+        {
+          "subject": "IKT Projektmunka II.",
+          "teacher": "KUHM",
+          "room": "Info I.",
+          "groups": [
+            "11-SZF-gyak1"
+          ],
+          "start": "10:45",
+          "end": "11:30",
+          "duration_periods": 1,
+          "color": "#33CCCC"
+        },
+        {
+          "subject": "IKT Projektmunka II.",
+          "teacher": "FAIS",
+          "room": "Info VII.",
+          "groups": [
+            "11-SZF-gyak2"
+          ],
+          "start": "10:45",
+          "end": "11:30",
+          "duration_periods": 1,
+          "color": "#CC0000"
+        },
+        {
+          "subject": "Műszaki ábrázolás",
+          "teacher": "SZEN",
+          "room": "Kajtor",
+          "groups": [
+            "11-EE-gyak"
+          ],
+          "start": "10:45",
+          "end": "11:30",
+          "duration_periods": 1,
+          "color": "#ACFDB2"
+        },
+        {
+          "subject": "Elektrotechnika",
+          "teacher": "NAJA",
+          "room": "Matek II.",
+          "groups": [
+            "11-IP-gyak1"
+          ],
+          "start": "10:45",
+          "end": "11:30",
+          "duration_periods": 1,
+          "color": "#00FF00"
+        }
+      ],
+      "Period 5 (11:40-12:25)": [
+        {
+          "subject": "Programozás alapjai",
+          "teacher": "HUAD",
+          "room": "Info VII.",
+          "groups": [
+            "11-IP-gyak-1"
+          ],
+          "start": "11:40",
+          "end": "13:20",
+          "duration_periods": 2,
+          "color": "#8282E8"
+        },
+        {
+          "subject": "Adatbázis-kezelés I.",
+          "teacher": "KUHM",
+          "room": "Info I.",
+          "groups": [
+            "11-IR-gyak-1"
+          ],
+          "start": "11:40",
+          "end": "13:20",
+          "duration_periods": 2,
+          "color": "#33CCCC"
+        },
+        {
+          "subject": "PHP programozás",
+          "teacher": "GÁMA",
+          "room": "Info IV.",
+          "groups": [
+            "11-SZF-gyak-1"
+          ],
+          "start": "11:40",
+          "end": "13:20",
+          "duration_periods": 2,
+          "color": "#96FFC0"
+        },
+        {
+          "subject": "Adatbázis-kezelés I.",
+          "teacher": "VIMI",
+          "room": "Info VI.",
+          "groups": [
+            "11-SZF-gyak-2"
+          ],
+          "start": "11:40",
+          "end": "13:20",
+          "duration_periods": 2,
+          "color": "#FFFF99"
+        },
+        {
+          "subject": "Elektronika",
+          "teacher": "AGCS",
+          "room": "Elektr",
+          "groups": [
+            "11-EE-gyak-1"
+          ],
+          "start": "11:40",
+          "end": "13:20",
+          "duration_periods": 2,
+          "color": "#FF3399"
+        },
+        {
+          "subject": "Elektrotechnika",
+          "teacher": "SZEN",
+          "room": "PLC",
+          "groups": [
+            "11-EE-gyak-2"
+          ],
+          "start": "11:40",
+          "end": "13:20",
+          "duration_periods": 2,
+          "color": "#ACFDB2"
+        }
+      ]
+    }
+  }
+}
